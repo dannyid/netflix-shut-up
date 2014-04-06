@@ -9,6 +9,7 @@
   },
 
   "icons": {
+      "128": "./netflix-shut-up"
   },
 
   "web_accessible_resources": [
