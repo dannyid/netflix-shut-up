@@ -5,7 +5,7 @@ var options = {
 
 Object.defineProperty(window, 'console', options);
 
-javascript:window.console2 = (function () {
+window.console2 = (function () {
 
     window.globals = [],
     iframe = document.createElement(‘iframe’),
